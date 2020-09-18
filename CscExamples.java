@@ -20,4 +20,5 @@ public String getCategory(){
 
 public String getText(){
   return text;
+  
 }
